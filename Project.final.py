@@ -3,7 +3,7 @@
 from prettytable import PrettyTable
 import mysql.connector
 
-mydatabase=mysql.connector.connect(host="localhost",user="root",password="135413")
+mydatabase=mysql.connector.connect(host="localhost",user="root",password="1234")
 
 mycursor=mydatabase.cursor()
 
