@@ -1,4 +1,4 @@
-                                                                                          #BANK MANAGEMENT SYSTEM
+                                                                     ### BANK MANAGEMENT SYSTEM
 
 from prettytable import PrettyTable
 import mysql.connector
@@ -233,7 +233,7 @@ def show():
 
 
 
-#STARTING POINT
+### STARTING POINT
 
 print('\t\t\t|______________________________________________________________________________________|\t\t')
 print('\t\t\t|______________________________________________________________________________________|\t\t')
